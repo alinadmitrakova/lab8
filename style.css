@@ -9,6 +9,7 @@ body {
     background-image: url("img/Горы_Пожарный_дозор_Пейзаж.jpg");
     background-repeat: no-repeat;
     background-position: top;
+    background-size: auto;
   }
   img{
     max-width: 100%;
@@ -16,7 +17,7 @@ body {
   }
   
   .container {
-    max-width: 100%;
+    max-width: 928px;
     margin: 0 auto;
     padding: 0 16px;
   }
