@@ -1,2 +1,1 @@
-# my-site
-ссылка https://alinadmitrakova.github.io/my-site/
+https://alinadmitrakova.github.io/lab8/
