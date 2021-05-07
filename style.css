@@ -81,9 +81,10 @@ body {
     font-size: 32px;
     line-height: 1.3;
   }
-  
+  /**/
   .intro {
     margin: 0 0 200px;
+    padding: 0 16px;
   }
 
   @media screen and (max-width: 500px) {
