@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    min-width: 320px;
+    min-width: 300px;
     font-family: 'Antonio', sans-serif;
     font-size: 16px;
     line-height: 1.2;
@@ -17,8 +17,6 @@ body {
   }
   
   .container {
-    max-width: 768px;
-    min-width: 300px;
     margin: 0 auto;
   }
   
@@ -59,8 +57,8 @@ body {
   }
   
   .heading {
-    margin: 0 0 16px;
-    padding: 0 16px;
+    margin: 16px 0 16px;
+    padding: 16px 16px;
     font-family: 'Antonio', sans-serif;
     font-size: 70px;
     color: #0f0c4f;
@@ -125,7 +123,8 @@ body {
   }
   
   .skills-list dt {
-    padding-left: 32px;
+    padding-left: 25px;
+    text-align: left;
     margin-left: auto;
     margin-right: auto;
     background-repeat: no-repeat;
